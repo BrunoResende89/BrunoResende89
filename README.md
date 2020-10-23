@@ -1,4 +1,4 @@
-### Hi there BrunoResende 👋
+### Hi there, Hello Bruno👋
 
 <!--
 **BrunoResende89/BrunoResende89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
